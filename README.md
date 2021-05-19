@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<img src="https://raw.githubusercontent.com/wenpeiliew/liew_pei_wen/main/images/IMG_2397.jpg" width=20% heigh=20%>
+<img src="https://raw.githubusercontent.com/wenpeiliew/liew_pei_wen/main/images/IMG_2397.jpg" width=20% height=20%>
 
 <!-- Add your details -->
 
